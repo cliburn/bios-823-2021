@@ -40,18 +40,20 @@ Due to the wide-ranging nature of the syllabus, there is no course textbook. How
 
 ## Grading
 
-- 50% mini-project homework
+- 50% homework
   - A lot of practical self-learning will be done *only* through homework assignments, including exposure to topics and/or alternative packages we have no time to cover in class. The homework assignments (and final project) will also result in the creation of your data science portfolio.
-  - Due every two weeks
-- 10% coding practice homework
-  - Short, more structured exercises to master basic skills
-  - Due every week
 - 20% exams
   - Test basic competency
   - Based on topics covered in lectures
 - 20% final project
-  - Opportunity to integrate what's been learned over the course
   - Learn to work as part of a data science team
+- 10% class participation
+  - Contribute to intellectual environment
+  - Participates in office hours
+      - Demonstrates drive to learn and intellectual curiosity
+  - Rating of helpfulness by rest of class / project team
+      - Contributions to peer learning
+      - Contributions to team project
 
 For letter grade
 
@@ -63,7 +65,7 @@ For letter grade
 ## Office hours
 
 - Michael Gao <michael.gao@duke.edu> (TA): ?
-- Cliburn Chan <cliburn.chan@duke.edu> (Instructor): Thursdays 5-6 pm
+- Cliburn Chan <cliburn.chan@duke.edu> (Instructor): Thursdays 5-6 PM
   - Please email me in advance if you plan to attend my office hour
 
 ## Part 1: Python for Data Science
