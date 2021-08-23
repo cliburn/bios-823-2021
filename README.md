@@ -65,7 +65,7 @@ For letter grade
 ## Office hours
 
 - Michael Gao <michael.gao@duke.edu> (TA): ?
-- Cliburn Chan <cliburn.chan@duke.edu> (Instructor): Thursdays 5-6 PM
+- Cliburn Chan <cliburn.chan@duke.edu> (Instructor): Thursdays 5-6 PM (Room 10050)
   - Please email me in advance if you plan to attend my office hour
 
 ## Part 1: Python for Data Science
