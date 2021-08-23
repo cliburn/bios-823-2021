@@ -19,6 +19,12 @@ You are expected to follow the Duke Honor Code. You can discuss ideas and approa
 
 Start a personal website on [GitHub Pages](https://pages.github.com). You can find tutorials for how to do on the web. You will need to blog about each exercise for full credit. The use of a blogging tool like Pelican or Hugo is optional.
 
+References for setting up a blog on GitHub pages (you can easily find more with a web search):
+
+- [Manually from Markdwon](https://jekyllrb.com/docs/github-pages/)
+- [Pelican - Python blogging package](https://opensource.com/article/19/5/run-your-blog-github-pages-python)
+- [Hugo - for industrial strength websites](https://youngkin.github.io/post/createafreeblogsite/)
+- [fastpages - direct from Jupyter](https://github.com/fastai/fastpages)
 
 **1**. Math is fun
 
