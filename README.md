@@ -168,7 +168,7 @@ Main package is `tensorflow` with `keras`
 - Effective training 
 - Explainable AI (XAI) with `shap`
 
-## Part 3: Working with big data
+## Part 4: Working with big data
 
 Finally, we consider three aspects of data engineering for "big data" - construction of pipelines using functional approaches, scaling of algorithms for performance, and the automation of workflows.
 
