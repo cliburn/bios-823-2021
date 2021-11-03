@@ -62,3 +62,4 @@ Train a deep learning model to classify beetles, cockroaches and dragonflies usi
 If DropBox does not work, you can use this 
 
 `wget https://people.duke.edu/~ccc14/insects.zip`
+
